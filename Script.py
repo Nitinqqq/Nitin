@@ -1,9 +1,9 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b>✨ ʜᴇʏ {user}.
 
-Mʏ Nᴀᴍᴇ Is {bot}.
+ɪ ᴀᴍ {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ʙᴏᴛ ᴏғ<a herf=https://t.me/mmp_network>ᴍᴍᴘ ɴᴇᴛᴡᴏʀᴋ ◉『 ᴍᴍᴘ 』</a></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
