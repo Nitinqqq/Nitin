@@ -8,7 +8,7 @@ class script(object):
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/yukta_mmp>yukta</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/denji_mmp>Nitin</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
