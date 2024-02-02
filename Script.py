@@ -3,12 +3,12 @@ class script(object):
 
 ɪ ᴀᴍ {bot}.
 
-ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ʙᴏᴛ ᴏғ <a herf=https://t.me/mmp_network>ᴍᴍᴘ ɴᴇᴛᴡᴏʀᴋ ◉『 ᴍᴍᴘ 』</a></b>"""
+ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ʙᴏᴛ ᴏғ <a href=https://t.me/mmp_network>ᴍᴍᴘ ɴᴇᴛᴡᴏʀᴋ ◉『 ᴍᴍᴘ 』</a></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/yukta_mmp>yukta</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
