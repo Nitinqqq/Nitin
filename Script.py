@@ -3,7 +3,7 @@ class script(object):
 
 ɪ ᴀᴍ {bot}.
 
-ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ʙᴏᴛ ᴏғ<a herf=https://t.me/mmp_network>ᴍᴍᴘ ɴᴇᴛᴡᴏʀᴋ ◉『 ᴍᴍᴘ 』</a></b>"""
+ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ʙᴏᴛ ᴏғ <a herf=https://t.me/mmp_network>ᴍᴍᴘ ɴᴇᴛᴡᴏʀᴋ ◉『 ᴍᴍᴘ 』</a></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
